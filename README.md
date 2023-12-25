@@ -22,7 +22,6 @@ This Python script is a deep learning project for classifying Arabic alphabet ch
 
 <h3>Data Processing</h3>
 <ul>
-    <li>Labels undergo encoding into numerical values using the <code>LabelEncoder</code>.</li>
     <li>The dataset is split into training and validation sets using the <code>train_test_split</code> function.</li>
 </ul>
 
